@@ -1,0 +1,12 @@
+# Pushover
+user_token: 
+app_token: 
+device: 
+sound: siren
+priority: 1
+
+# Twitter
+consumer_key: 
+consumer_secret: 
+access_token: 
+access_secret: 

@@ -1,0 +1,25 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bini (0.6.0)
+      sys-proctable
+    eventmachine (1.0.3)
+    http_parser.rb (0.5.3)
+    pushover (0.99.2)
+      bini (~> 0.6.0)
+      yajl-ruby
+    simple_oauth (0.1.9)
+    sys-proctable (0.9.4)
+    twitter-stream (0.1.16)
+      eventmachine (>= 0.12.8)
+      http_parser.rb (~> 0.5.1)
+      simple_oauth (~> 0.1.4)
+    yajl-ruby (1.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pushover
+  twitter-stream
+  yajl-ruby
